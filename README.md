@@ -12,8 +12,6 @@
 ![Downloads](https://img.shields.io/github/downloads/gabrielevanger/ThinkPad-E14-Gen1-Hackintosh-Tahoe/total?style=flat-square&label=downloads)
 ![Last commit](https://img.shields.io/github/last-commit/gabrielevanger/ThinkPad-E14-Gen1-Hackintosh-Tahoe?style=flat-square&label=atualizado)
 
-**[⬇️ Baixar a EFI (última release)](https://github.com/gabrielevanger/ThinkPad-E14-Gen1-Hackintosh-Tahoe/releases/latest)**
-
 [Hardware](#hardware) · [Screenshots](#screenshots) · [Configuração](#configuração-e-por-quê) · [Antes de usar](#antes-de-usar) · [Depois de instalar](#depois-de-instalar) · [Créditos](#créditos)
 
 </div>
