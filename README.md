@@ -1,4 +1,22 @@
+<div align="center">
+
 # OpenCore EFI · Lenovo ThinkPad E14 Gen 1 · macOS Tahoe 26
+
+![OpenCore](https://img.shields.io/badge/OpenCore-1.0.8-1f6feb?style=for-the-badge)
+![macOS](https://img.shields.io/badge/macOS-Tahoe_26.7.1-000000?style=for-the-badge&logo=apple&logoColor=white)
+![ThinkPad](https://img.shields.io/badge/ThinkPad-E14_Gen_1-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+![CPU](https://img.shields.io/badge/CPU-i5--10210U_Comet_Lake-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
+![Status](https://img.shields.io/badge/status-testado_no_hardware_real-2ea44f?style=flat-square)
+![Release](https://img.shields.io/github/v/release/gabrielevanger/ThinkPad-E14-Gen1-Hackintosh-Tahoe?style=flat-square&label=release)
+![Downloads](https://img.shields.io/github/downloads/gabrielevanger/ThinkPad-E14-Gen1-Hackintosh-Tahoe/total?style=flat-square&label=downloads)
+![Last commit](https://img.shields.io/github/last-commit/gabrielevanger/ThinkPad-E14-Gen1-Hackintosh-Tahoe?style=flat-square&label=atualizado)
+
+**[⬇️ Baixar a EFI (última release)](https://github.com/gabrielevanger/ThinkPad-E14-Gen1-Hackintosh-Tahoe/releases/latest)**
+
+[Hardware](#hardware) · [Screenshots](#screenshots) · [Configuração](#configuração-e-por-quê) · [Antes de usar](#antes-de-usar) · [Depois de instalar](#depois-de-instalar) · [Créditos](#créditos)
+
+</div>
 
 EFI do OpenCore para o **Lenovo ThinkPad E14 Gen 1 (20RA/20RB)** rodando **macOS Tahoe 26.7.1**,
 montada para fins educacionais. Foi feita a partir do `Sample.plist` oficial do OpenCore e de
