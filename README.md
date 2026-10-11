@@ -153,7 +153,6 @@ sudo pmset -a hibernatemode 0 standby 0 autopoweroff 0 proximitywake 0 powernap 
 - [Mieze](https://github.com/Mieze/RTL8111_driver_for_OS_X): RealtekRTL8111
 - [1Revenger1](https://github.com/1Revenger1/ECEnabler): ECEnabler
 - [USBToolBox](https://github.com/USBToolBox/kext)
-- [gdantas04/ThinkPad-E14-macOS-OpenCore](https://github.com/gdantas04/ThinkPad-E14-macOS-OpenCore) (MIT): referência do mesmo modelo, incluindo o `layout-id` 15, os conectores HDMI e o mapa de portas USB
 
 Cada componente mantém a licença do seu projeto original. O OpenCore é distribuído sob BSD-3-Clause
 (veja [`licenses/OpenCore-BSD-3.txt`](licenses/OpenCore-BSD-3.txt)).
